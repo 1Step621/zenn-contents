@@ -41,7 +41,12 @@ https://github.com/1Step621/zerium
 ![シーン設定](/images/articles/released-zerium/scene-settings.png)
 ![引数へのリンク](/images/articles/released-zerium/link-argument.png)
 
-この仕組みを流用してパーティクルごとに異なるエフェクトをかけられるようなシステムを作ったり、複雑な計算を含むアイテムを作ったりできないかなと思っています(未実装)。
+さらに、計算処理を挟むこともできます。
+
+![引数の計算](/images/articles/released-zerium/calculation.png)
+![引数の計算結果](/images/articles/released-zerium/calculation-result.gif)
+
+また、この仕組みを流用してパーティクルごとに異なるエフェクトをかけられるようなシステムを作るなど、プログラミングで言う高階関数チックなこともできないかなと考えています(未実装)。
 
 ## 技術選定
 
